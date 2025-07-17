@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" ?>
+<PsychoPy2experiment encoding="utf-8" version="2022.1.4">
+  <Settings>
+    <Param val="use prefs" valType="str" updates="None" name="Audio latency priority"/>
+    <Param val="use prefs" valType="str" updates="None" name="Audio lib"/>
+    <Param val="" valType="str" updates="None" name="Completed URL"/>
+    <Param val="auto" valType="str" updates="None" name="Data file delimiter"/>
+    <Param val="u'data/%s_%s_%s' % (expName, expInfo['date'], expInfo['participant'])" valType="code" updates="None" name="Data filename"/>
+    <Param val="True" valType="bool" updates="None" name="Enable Escape"/>
+    <Param val="" valType="str" updates="None" name="End Message"/>
+    <Param val="{'participant': '', 'session': '001'}" valType="code" updates="None" name="Experiment info"/>
+    <Param val="True" valType="bool" updates="None" name="Force stereo"/>
+    <Param val="True" valType="bool" updates="None" name="Full-screen window"/>
+    <Param val="" valType="str" updates="None" name="HTML path"/>
+    <Param val="" valType="str" updates="None" name="Incomplete URL"/>
+    <Param val="testMonitor" valType="str" updates="None" name="Monitor"/>
+    <Param val="['face_suzuki_smooth_faces/face_suzuki_smooth_0_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_1_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_2_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_3_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_4_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_5_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_6_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_7_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_8_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_9_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_10_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_11_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_12_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_13_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_14_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_15_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_16_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_17_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_18_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_19_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_20_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_21_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_22_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_23_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_24_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_25_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_26_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_27_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_28_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_29_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_30_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_31_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_32_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_33_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_34_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_35_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_36_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_37_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_38_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_39_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_40_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_41_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_42_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_43_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_44_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_45_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_46_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_47_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_48_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_49_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_50_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_51_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_52_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_53_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_54_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_55_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_56_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_57_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_58_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_59_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_60_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_61_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_62_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_63_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_64_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_65_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_66_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_67_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_68_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_69_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_70_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_71_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_72_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_73_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_74_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_75_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_76_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_77_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_78_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_79_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_80_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_81_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_82_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_83_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_84_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_85_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_86_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_87_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_88_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_89_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_90_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_91_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_92_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_93_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_94_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_95_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_96_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_97_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_98_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_99_face.png', 'face_suzuki_smooth_faces/face_suzuki_smooth_100_face.png']" valType="list" updates="None" name="Resources"/>
+    <Param val="True" valType="bool" updates="None" name="Save csv file"/>
+    <Param val="True" valType="bool" updates="None" name="Save excel file"/>
+    <Param val="False" valType="bool" updates="None" name="Save hdf5 file"/>
+    <Param val="True" valType="bool" updates="None" name="Save log file"/>
+    <Param val="True" valType="bool" updates="None" name="Save psydat file"/>
+    <Param val="True" valType="bool" updates="None" name="Save wide csv file"/>
+    <Param val="1" valType="num" updates="None" name="Screen"/>
+    <Param val="True" valType="bool" updates="None" name="Show info dlg"/>
+    <Param val="False" valType="bool" updates="None" name="Show mouse"/>
+    <Param val="pix" valType="str" updates="None" name="Units"/>
+    <Param val="2022.1.4" valType="str" updates="None" name="Use version"/>
+    <Param val="[1280, 800]" valType="list" updates="None" name="Window size (pixels)"/>
+    <Param val="none" valType="str" updates="None" name="backgroundFit"/>
+    <Param val="" valType="str" updates="None" name="backgroundImg"/>
+    <Param val="avg" valType="str" updates="None" name="blendMode"/>
+    <Param val="$[0,0,0]" valType="color" updates="None" name="color"/>
+    <Param val="rgb" valType="str" updates="None" name="colorSpace"/>
+    <Param val="100.1.1.1" valType="str" updates="None" name="elAddress"/>
+    <Param val="FILTER_LEVEL_2" valType="str" updates="None" name="elDataFiltering"/>
+    <Param val="FILTER_LEVEL_OFF" valType="str" updates="None" name="elLiveFiltering"/>
+    <Param val="EYELINK 1000 DESKTOP" valType="str" updates="None" name="elModel"/>
+    <Param val="ELLIPSE_FIT" valType="str" updates="None" name="elPupilAlgorithm"/>
+    <Param val="PUPIL_AREA" valType="str" updates="None" name="elPupilMeasure"/>
+    <Param val="1000" valType="num" updates="None" name="elSampleRate"/>
+    <Param val="False" valType="bool" updates="None" name="elSimMode"/>
+    <Param val="RIGHT_EYE" valType="str" updates="None" name="elTrackEyes"/>
+    <Param val="PUPIL_CR_TRACKING" valType="str" updates="None" name="elTrackingMode"/>
+    <Param val="staircase_SuzukiRaki_face" valType="str" updates="None" name="expName"/>
+    <Param val="on Sync" valType="str" updates="None" name="exportHTML"/>
+    <Param val="None" valType="str" updates="None" name="eyetracker"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="gpAddress"/>
+    <Param val="4242" valType="num" updates="None" name="gpPort"/>
+    <Param val="ioHub" valType="str" updates="None" name="keyboardBackend"/>
+    <Param val="exp" valType="code" updates="None" name="logging level"/>
+    <Param val="('MIDDLE_BUTTON',)" valType="list" updates="None" name="mgBlink"/>
+    <Param val="CONTINUOUS" valType="str" updates="None" name="mgMove"/>
+    <Param val="0.5" valType="num" updates="None" name="mgSaccade"/>
+    <Param val="0.6" valType="num" updates="None" name="plConfidenceThreshold"/>
+    <Param val="True" valType="bool" updates="None" name="plPupilCaptureRecordingEnabled"/>
+    <Param val="" valType="str" updates="None" name="plPupilCaptureRecordingLocation"/>
+    <Param val="127.0.0.1" valType="str" updates="None" name="plPupilRemoteAddress"/>
+    <Param val="50020" valType="num" updates="None" name="plPupilRemotePort"/>
+    <Param val="1000" valType="num" updates="None" name="plPupilRemoteTimeoutMs"/>
+    <Param val="False" valType="bool" updates="None" name="plPupillometryOnly"/>
+    <Param val="psychopy_iohub_surface" valType="str" updates="None" name="plSurfaceName"/>
+    <Param val="" valType="str" updates="None" name="tbLicenseFile"/>
+    <Param val="" valType="str" updates="None" name="tbModel"/>
+    <Param val="60" valType="num" updates="None" name="tbSampleRate"/>
+    <Param val="" valType="str" updates="None" name="tbSerialNo"/>
+    <Param val="pyglet" valType="str" updates="None" name="winBackend"/>
+  </Settings>
+  <Routines>
+    <Routine name="trial">
+      <CodeComponent name="code">
+        <Param val="" valType="extendedCode" updates="constant" name="Before Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Before JS Experiment"/>
+        <Param val="current_blend = 100&amp;#10;correct_counter = 0&amp;#10;incorrect_counter = 0&amp;#10;step_sizes = [64, 32, 16, 8, 4, 2, 1]&amp;#10;step_index = 0&amp;#10;is_target_blended = True  # 加工画像がターゲットか" valType="extendedCode" updates="constant" name="Begin Experiment"/>
+        <Param val="current_blend = 100;&amp;#10;correct_counter = 0;&amp;#10;incorrect_counter = 0;&amp;#10;step_sizes = [64, 32, 16, 8, 4, 2, 1];&amp;#10;step_index = 0;&amp;#10;is_target_blended = true;&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Experiment"/>
+        <Param val="is_target_blended = (util.randint(0, 2) === 1);&amp;#10;if (is_target_blended) {&amp;#10;    blend_ratio = current_blend;&amp;#10;    correctAns = &quot;y&quot;;&amp;#10;} else {&amp;#10;    blend_ratio = 0;&amp;#10;    correctAns = &quot;n&quot;;&amp;#10;}&amp;#10;blend_str = `${blend_ratio}`;&amp;#10;image_file = ((&quot;face_suzuki_smooth_faces/face_suzuki_smooth_&quot; + blend_str) + &quot;_face.png&quot;);&amp;#10;psychoJS.experiment.addData(&quot;correctAns&quot;, correctAns);&amp;#10;psychoJS.experiment.addData(&quot;current_blend&quot;, current_blend);&amp;#10;psychoJS.experiment.addData(&quot;blend_ratio&quot;, blend_ratio);&amp;#10;psychoJS.experiment.addData(&quot;image_file&quot;, image_file);&amp;#10;" valType="extendedCode" updates="constant" name="Begin JS Routine"/>
+        <Param val="# ランダムに画像タイプを選択（50%で加工 or 非加工）&amp;#10;is_target_blended = (randint(0, 2) == 1)&amp;#10;&amp;#10;# blend値を計算&amp;#10;if is_target_blended:&amp;#10;    blend_ratio = current_blend&amp;#10;    correctAns = 'y'&amp;#10;else:&amp;#10;    blend_ratio = 0&amp;#10;    correctAns = 'n'&amp;#10;    &amp;#10;# ファイル名を手動でゼロ埋めして作成（Auto→JS対応）&amp;#10;blend_str = &quot;%03d&quot; % blend_ratio&amp;#10;image_file = &quot;face_suzuki_smooth_faces/face_suzuki_smooth_&quot; + blend_str + &quot;_face.png&quot;&amp;#10;&amp;#10;# 出力csvファイルへの保存&amp;#10;thisExp.addData(&quot;correctAns&quot;, correctAns)&amp;#10;thisExp.addData(&quot;current_blend&quot;, current_blend)&amp;#10;thisExp.addData(&quot;blend_ratio&quot;, blend_ratio)&amp;#10;thisExp.addData(&quot;image_file&quot;, image_file)" valType="extendedCode" updates="constant" name="Begin Routine"/>
+        <Param val="Auto-&gt;JS" valType="str" updates="None" name="Code Type"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="Each JS Frame"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End Experiment"/>
+        <Param val="" valType="extendedCode" updates="constant" name="End JS Experiment"/>
+        <Param val="if ((((key_resp.keys === &quot;y&quot;) &amp;&amp; is_target_blended) || ((key_resp.keys === &quot;n&quot;) &amp;&amp; (! is_target_blended)))) {&amp;#10;    correct_counter += 1;&amp;#10;    incorrect_counter = 0;&amp;#10;    iscorrect = true;&amp;#10;} else {&amp;#10;    incorrect_counter += 1;&amp;#10;    correct_counter = 0;&amp;#10;    iscorrect = false;&amp;#10;}&amp;#10;if ((correct_counter &gt;= 3)) {&amp;#10;    step_index = Math.min(step_index, (step_sizes.length - 1));&amp;#10;    current_blend = Math.max(1, (current_blend - step_sizes[step_index]));&amp;#10;    correct_counter = 0;&amp;#10;    step_index = (step_index + 1);&amp;#10;} else {&amp;#10;    if ((incorrect_counter &gt;= 1)) {&amp;#10;        step_index = Math.min(step_index, (step_sizes.length - 1));&amp;#10;        current_blend = Math.min(100, (current_blend + step_sizes[step_index]));&amp;#10;        incorrect_counter = 0;&amp;#10;        step_index = (step_index + 1);&amp;#10;    }&amp;#10;}&amp;#10;text_display = (iscorrect ? &quot;\u6b63\u89e3&quot; : &quot;\u4e0d\u6b63\u89e3&quot;);&amp;#10;" valType="extendedCode" updates="constant" name="End JS Routine"/>
+        <Param val="# 正誤判定（例：y＝加工、n＝非加工）&amp;#10;if (key_resp.keys == 'y' and is_target_blended) or (key_resp.keys == 'n' and not is_target_blended):&amp;#10;    correct_counter += 1&amp;#10;    incorrect_counter = 0&amp;#10;    iscorrect = True&amp;#10;else:&amp;#10;    incorrect_counter += 1&amp;#10;    correct_counter = 0&amp;#10;    iscorrect = False&amp;#10;&amp;#10;# ステアケース処理&amp;#10;if correct_counter &gt;= 3:&amp;#10;    step_index = min(step_index, len(step_sizes) - 1)&amp;#10;    current_blend = max(1, current_blend - step_sizes[step_index])&amp;#10;    correct_counter = 0&amp;#10;    step_index = step_index + 1&amp;#10;elif incorrect_counter &gt;= 1:&amp;#10;    step_index = min(step_index, len(step_sizes) - 1)&amp;#10;    current_blend = min(100, current_blend + step_sizes[step_index])&amp;#10;    incorrect_counter = 0&amp;#10;    step_index = step_index + 1&amp;#10;&amp;#10;# 結果表示用（オプション）&amp;#10;text_display = ('正解' if iscorrect else '不正解')&amp;#10;" valType="extendedCode" updates="constant" name="End Routine"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="code" valType="code" updates="None" name="name"/>
+      </CodeComponent>
+      <PolygonComponent name="polygon_1">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="white" valType="color" updates="constant" name="fillColor"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="white" valType="color" updates="constant" name="lineColor"/>
+        <Param val="1" valType="num" updates="constant" name="lineWidth"/>
+        <Param val="4" valType="int" updates="constant" name="nVertices"/>
+        <Param val="polygon_1" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="rectangle" valType="str" updates="None" name="shape"/>
+        <Param val="(3.0, 10.0)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="20" valType="code" updates="None" name="startVal"/>
+        <Param val="frame N" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="pix" valType="str" updates="None" name="units"/>
+        <Param val="" valType="list" updates="constant" name="vertices"/>
+      </PolygonComponent>
+      <PolygonComponent name="polygon_2">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="white" valType="color" updates="constant" name="fillColor"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="white" valType="color" updates="constant" name="lineColor"/>
+        <Param val="1" valType="num" updates="constant" name="lineWidth"/>
+        <Param val="4" valType="int" updates="constant" name="nVertices"/>
+        <Param val="polygon_2" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="rectangle" valType="str" updates="None" name="shape"/>
+        <Param val="(10.0, 3.0)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="20" valType="code" updates="None" name="startVal"/>
+        <Param val="frame N" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="pix" valType="str" updates="None" name="units"/>
+        <Param val="" valType="list" updates="constant" name="vertices"/>
+      </PolygonComponent>
+      <KeyboardComponent name="key_resp">
+        <Param val="'y','n'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="$correctAns" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="20" valType="code" updates="None" name="startVal"/>
+        <Param val="frame N" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="True" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+      <ImageComponent name="image_face">
+        <Param val="center" valType="str" updates="constant" name="anchor"/>
+        <Param val="$[1,1,1]" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="False" valType="bool" updates="constant" name="flipHoriz"/>
+        <Param val="False" valType="bool" updates="constant" name="flipVert"/>
+        <Param val="$image_file" valType="file" updates="set every repeat" name="image"/>
+        <Param val="linear" valType="str" updates="constant" name="interpolate"/>
+        <Param val="" valType="str" updates="constant" name="mask"/>
+        <Param val="image_face" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="(720.0, 960.0)" valType="list" updates="constant" name="size"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="20" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (frames)" valType="str" updates="None" name="stopType"/>
+        <Param val="30" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="128" valType="num" updates="constant" name="texture resolution"/>
+        <Param val="pix" valType="str" updates="None" name="units"/>
+      </ImageComponent>
+    </Routine>
+    <Routine name="instruction">
+      <TextComponent name="text">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="24" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="frame N" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="これから、いくつかの顔画像が表示されます。&amp;#10;&amp;#10;肌がきれいに見えるように加工されているかを判定してください。&amp;#10;加工されていると思ったら → yキー（yes）&amp;#10;加工されていないと思ったら → nキー（no）&amp;#10;&amp;#10;加工されている画像と加工されていない画像は等確率で出現します。&amp;#10;&amp;#10;実験中は中央の十字を見続けてください。&amp;#10;&amp;#10;スペースキーを押すと実験が開始されます。" valType="str" updates="constant" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+      <KeyboardComponent name="key_resp_1">
+        <Param val="'space'" valType="list" updates="constant" name="allowedKeys"/>
+        <Param val="" valType="str" updates="constant" name="correctAns"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="True" valType="bool" updates="constant" name="discard previous"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="True" valType="bool" updates="constant" name="forceEndRoutine"/>
+        <Param val="key_resp_1" valType="code" updates="None" name="name"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="frame N" valType="str" updates="None" name="stopType"/>
+        <Param val="" valType="code" updates="constant" name="stopVal"/>
+        <Param val="last key" valType="str" updates="constant" name="store"/>
+        <Param val="False" valType="bool" updates="constant" name="storeCorrect"/>
+        <Param val="True" valType="bool" updates="constant" name="syncScreenRefresh"/>
+      </KeyboardComponent>
+    </Routine>
+    <Routine name="feedback">
+      <TextComponent name="text_2">
+        <Param val="white" valType="color" updates="constant" name="color"/>
+        <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
+        <Param val="1" valType="num" updates="constant" name="contrast"/>
+        <Param val="False" valType="bool" updates="None" name="disabled"/>
+        <Param val="" valType="code" updates="None" name="durationEstim"/>
+        <Param val="None" valType="str" updates="constant" name="flip"/>
+        <Param val="Open Sans" valType="str" updates="constant" name="font"/>
+        <Param val="LTR" valType="str" updates="None" name="languageStyle"/>
+        <Param val="24" valType="num" updates="constant" name="letterHeight"/>
+        <Param val="text_2" valType="code" updates="None" name="name"/>
+        <Param val="" valType="num" updates="constant" name="opacity"/>
+        <Param val="0" valType="num" updates="constant" name="ori"/>
+        <Param val="(0, 0)" valType="list" updates="constant" name="pos"/>
+        <Param val="True" valType="bool" updates="None" name="saveStartStop"/>
+        <Param val="" valType="code" updates="None" name="startEstim"/>
+        <Param val="frame N" valType="str" updates="None" name="startType"/>
+        <Param val="0.0" valType="code" updates="None" name="startVal"/>
+        <Param val="duration (frames)" valType="str" updates="None" name="stopType"/>
+        <Param val="20" valType="code" updates="constant" name="stopVal"/>
+        <Param val="True" valType="bool" updates="None" name="syncScreenRefresh"/>
+        <Param val="$text_display" valType="str" updates="set every repeat" name="text"/>
+        <Param val="from exp settings" valType="str" updates="None" name="units"/>
+        <Param val="" valType="num" updates="constant" name="wrapWidth"/>
+      </TextComponent>
+    </Routine>
+  </Routines>
+  <Flow>
+    <Routine name="instruction"/>
+    <LoopInitiator loopType="TrialHandler" name="trials">
+      <Param name="Selected rows" updates="None" val="" valType="str"/>
+      <Param name="conditions" updates="None" val="None" valType="str"/>
+      <Param name="conditionsFile" updates="None" val="" valType="file"/>
+      <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
+      <Param name="isTrials" updates="None" val="True" valType="bool"/>
+      <Param name="loopType" updates="None" val="random" valType="str"/>
+      <Param name="nReps" updates="None" val="80" valType="num"/>
+      <Param name="name" updates="None" val="trials" valType="code"/>
+      <Param name="random seed" updates="None" val="" valType="code"/>
+    </LoopInitiator>
+    <Routine name="trial"/>
+    <Routine name="feedback"/>
+    <LoopTerminator name="trials"/>
+  </Flow>
+</PsychoPy2experiment>
